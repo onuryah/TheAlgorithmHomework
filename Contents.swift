@@ -280,7 +280,3 @@ func howManyMultiply(firstValue : Int, seconValue : Int){
     }
 }
 
-let x : Int
-4 * x = 100
-print(x)
-
